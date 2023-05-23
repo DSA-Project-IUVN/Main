@@ -57,8 +57,8 @@
         <td>Contact</td>
     <tr>
         <td>1</td>
-        <td></td>
-        <td></td>
+        <td>Tôn Thất Quang Huy</td>
+        <td>ITITIU20217</td>
         <td></td>
         <td>
           <a href="">Github</a>
