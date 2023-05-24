@@ -38,6 +38,7 @@ public class Game extends Canvas implements Runnable {
     public static Bird bird;
 
     public static Button startButton;
+    public static Button existButton;
 
     Thread thread;
     ServerSocket serverSocket;
@@ -59,12 +60,16 @@ public class Game extends Canvas implements Runnable {
 
         img_gameover = GraphicsLoader.loadGraphics("rcs/gameover.png");
         background = GraphicsLoader.loadGraphics("rcs/background.png");
+
         ground = new Ground();        
         
         bird = new Bird(50,50,51,36);
 
-        startButton = new Button(Game.WIDTH / 2 - 156 / 2, 350, 156, 87, GraphicsLoader.loadGraphics("rcs/playbutton.png"));
+    
+        startButton = new Button(Game.WIDTH / 2 - 250 / 2, 350, 500, 87, GraphicsLoader.loadGraphics("rcs/play.png"));
+        existButton = new Button(Game.WIDTH/2 -250 / 2, 500,500,87, GraphicsLoader.loadGraphics("rcs/quit.png"));
     }
+
 
     public void tick() {
 
@@ -95,6 +100,7 @@ public class Game extends Canvas implements Runnable {
         if (gameover) {
             g.drawImage(img_gameover, Game.WIDTH / 2 - 280 / 2, 230, null);
             Game.startButton.render(g);
+            Game.existButton.render(g);
         }
         
 
@@ -147,4 +153,5 @@ public class Game extends Canvas implements Runnable {
             }
         }
     }
+    
 }

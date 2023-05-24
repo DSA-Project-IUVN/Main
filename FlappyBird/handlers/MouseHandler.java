@@ -27,6 +27,13 @@ public class MouseHandler implements MouseListener {
                 Game.score = 0;
             }
         }
+        if (Button.checkCollision(e.getX(), e.getY(), Game.existButton)) {
+            if(Game.gameover){
+                Game.existButton.pressed = true;
+                System.exit(0);
+            }
+            
+        }
     }
     
 
@@ -48,6 +55,6 @@ public class MouseHandler implements MouseListener {
 
     @Override
     public void mouseExited(MouseEvent e) {
-
+        
     }
 }
