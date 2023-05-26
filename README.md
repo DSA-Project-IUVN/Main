@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-<img src = "  " width = "320" height = "200"/>
+<img src = "https://flappy-bird.io/upload/imgs/flappy-bird1.jpg" width = "320" height = "200"/>
 
 ---
   
 <p align="center">
-<img src = "  " width = "320" height = "200"/>
+<img src = "https://cdn.gametv.vn/news_media/image/flappy-bird_0x0_1672193507.png" width = "320" height = "200"/>
 
 <br>
 🎮 Game Project developed by team [Team's name] 🎮
