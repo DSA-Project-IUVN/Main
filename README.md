@@ -97,7 +97,7 @@
         <td>ITITIU20224</td>
         <td></td>
         <td>
-          <a href="">Github</a>
+          <a href="https://github.com/ThaiKhang123456">Github</a>
         </td>
     </tr>
   </table>
