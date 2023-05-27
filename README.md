@@ -70,7 +70,7 @@
         <td>ITITIU20282</td>
         <td></td>
         <td>
-          <a href="">Github</a>
+          <a href="https://github.com/Litaaya">Github</a>
         </td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@
         <td>ITITIU20296</td>
         <td></td>
         <td>
-          <a href="">Github</a>
+          <a href="https://github.com/gekiruken12345">Github</a>
         </td>
     </tr>
     <tr>
