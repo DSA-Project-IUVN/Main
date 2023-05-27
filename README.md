@@ -75,8 +75,8 @@
     </tr>
     <tr>
         <td>3</td>
-        <td></td>
-        <td></td>
+        <td>Nguyễn Bá Phúc</td>
+        <td>ITITIU20278</td>
         <td></td>
         <td>
           <a href="">Github</a>
@@ -84,8 +84,8 @@
     </tr>
     <tr>
         <td>4</td>
-        <td></td>
-        <td></td>
+        <td>Trần Nguyễn Công Sơn</td>
+        <td>ITITIU20296</td>
         <td></td>
         <td>
           <a href="">Github</a>
@@ -93,8 +93,8 @@
     </tr>
     <tr>
         <td>5</td>
-        <td></td>
-        <td></td>
+        <td>Lê Công Thái Khang</td>
+        <td>ITITIU20224</td>
         <td></td>
         <td>
           <a href="">Github</a>
