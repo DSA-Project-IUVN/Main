@@ -18,9 +18,6 @@ import java.awt.image.BufferStrategy;
 import java.awt.image.BufferedImage;
 import java.awt.Graphics;
 
-
-@SuppressWarnings("serial")
-
 public class Game extends Canvas implements Runnable {
     
     public static final int WIDTH = 432;
