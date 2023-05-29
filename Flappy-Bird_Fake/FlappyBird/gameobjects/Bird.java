@@ -12,15 +12,7 @@ import main.Sound;
 import supers.Animation;
 import supers.GameObject;
 
-public class Bird extends GameObject  {
 
-    Animation animation;
-
-    public float gravity;
-    public float maxSpeed;
-    public Sound hit,die;
-
-    public static Sound point;
 
 
  
